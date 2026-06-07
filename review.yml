@@ -1,0 +1,11 @@
+name: LAMMA Toscana Open Data
+url: https://raw.githubusercontent.com/api-evangelist/dati-lamma-toscana-it/refs/heads/main/review.yml
+created: '2026-06-07'
+modified: '2026-06-07'
+reviews:
+  - date: '2026-06-07'
+    rating: 4
+    summary: Live CKAN API verified (v2.2.1), ~184 datasets.
+    endpoints:
+      - url: https://dati.lamma.toscana.it/api/3/action/status_show
+        status: 200
