@@ -39,6 +39,8 @@ apis:
       - type: x-ckan-version
         value: '2.2.1'
 common:
+  - type: DomainSecurity
+    url: security/dati-lamma-toscana-it-domain-security.yml
   - type: Website
     url: https://dati.lamma.toscana.it
   - type: Documentation
