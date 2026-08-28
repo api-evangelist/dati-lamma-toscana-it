@@ -4,6 +4,17 @@ description: >-
   LAMMA Toscana Open Data is a government agency open-data portal for Italy running CKAN.
   It exposes the CKAN catalog API over approximately 184 datasets from Tuscany's meteorological and environmental research agency.
 kind: government
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
